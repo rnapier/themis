@@ -33,6 +33,9 @@ xcuserdata
 *.swp
 *.xcworkspacedata
 
+# SwiftPM
+.build
+
 # additional rules
 DerivedData/
 .idea/
